@@ -1,5 +1,5 @@
-https://download.pytorch.org/whl/cpu/torch-1.6.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
-https://download.pytorch.org/whl/cpu/torchvision-0.7.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
-fastai
 voila
-ipywidgets
+fastai2>=0.0.16
+pillow>=7.1.0
+packaging
+ipywidgets==7.5.1
