@@ -1,5 +1,0 @@
-voila
-fastai2>=0.0.16
-pillow>=7.1.0
-packaging
-ipywidgets==7.5.1
