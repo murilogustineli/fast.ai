@@ -5,6 +5,7 @@ Welcome to [__Practical Deep Learning for Coders__](https://course.fast.ai/). Th
 ### Questionnaires
 - [Chapter 1: Your Deep Learning Journey](https://github.com/murilogustineli/fast.ai/blob/main/Questionnaires/Ch01-Questionnaire.ipynb)
 - [Chapter 2: From Model to Production](https://github.com/murilogustineli/fast.ai/blob/main/Questionnaires/Ch02-Questionnaire.ipynb)
+- [Chapter 4: Training a Digit Classifier](https://github.com/murilogustineli/fast.ai/blob/main/Questionnaires/Ch04-Questionnaire.ipynb)
 
 ### Projects
 - [Bear Classifier](https://github.com/murilogustineli/bear-classifier)
